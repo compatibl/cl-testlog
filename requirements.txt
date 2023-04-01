@@ -1,0 +1,4 @@
+cl-runtime>=2.0.2
+cl-testlog>=0.0.1
+pdoc>=12.0.2
+pytest>=6.1.1
