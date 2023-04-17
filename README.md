@@ -1,5 +1,10 @@
 # CompatibL Platform Integration for Test Log
-
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/compatibl/cl-testlog/python-package.yml)
+![GitHub](https://img.shields.io/github/license/compatibl/cl-testlog)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/cl-testlog)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/cl-testlog)
+![PyPI](https://img.shields.io/pypi/v/cl-testlog)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/compatibl/cl-testlog/pulls)
 ## Overview
 
 This package provides CompatibL Platform integration for the Test Log library
